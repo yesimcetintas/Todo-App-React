@@ -1,0 +1,39 @@
+body{
+  background-color: antiquewhite;
+}
+
+.app{
+
+  width: 1100px;
+  height: 600px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.edit-icon:hover {
+  cursor: pointer;
+}
+
+.check-icon:hover {
+  cursor: pointer;
+}
+
+.close-icon:hover {
+  cursor: pointer;
+}
+
+.delete-icon:hover {
+  cursor: pointer;
+}
+
+.status-color{
+  background-color: blue;
+}
+
+.filtered{
+  margin-left: 190px;
+}
+
+.addStatus{
+  margin-right: 180px;
+}
